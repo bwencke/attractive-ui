@@ -1,2 +1,2 @@
-# uiporn
-We've got the sex.
+# attractiveui
+Showcasing amazing UI across all platforms.
